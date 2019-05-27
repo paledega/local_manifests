@@ -5,7 +5,7 @@
            fetch="https://gitlab.com/" />
 
   <project path="device/xiaomi/wayne" name="MI6XDev/android_device_xiaomi_wayne" remote="github" revision="9.x" />
-  <project path="kernel/xiaomi/wayne" name="MI6XDev/android_kernel_xiaomi_wayne" remote="github" revision="pie" />
+  <project path="kernel/xiaomi/wayne" name="MI6XDev/android_kernel_xiaomi_wayne" remote="github" revision="9.x" />
   <project path="vendor/xiaomi/wayne" name="MoKee/android_vendor_xiaomi_wayne" remote="github" revision="mkp" />
   <project path="vendor/xiaomi/MiuiCamera" name="MoKee/android_vendor_xiaomi_miuicamera" remote="github" revision="mkp" />
 
